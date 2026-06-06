@@ -1,0 +1,14 @@
+[INFO   ] Logger: Record log in /storage/emulated/0/ClientSync/.kivy/logs/kivy_26-06-06_0.txt
+[DEBUG  ] Config: Upgrading from 0 to 1
+[WARNING] Config: Upgrading configuration in progress.
+[WARNING] Config: Older configuration version detected (0 instead of 27)
+[INFO   ] Kivy: v2.3.1
+[INFO   ] Kivy: Installed at "/data/user/0/ru.iiec.pydroid3/files/x86_64-linux-android/lib/python3.13/site-packages/kivy/__init__.py"
+[INFO   ] Python: v3.13.13 (main, May 12 2026, 00:28:48) [GCC 11.4.0]
+[INFO   ] Python: Interpreter at "/data/user/0/ru.iiec.pydroid3/files/x86_64-linux-android/bin/python3"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[WARNING] stderr: Traceback (most recent call last):
+[WARNING] stderr:   File "/storage/emulated/0/ClientSync/main.py", line 8, in <module>
+[WARNING] stderr:     from kivymd.app import MDApp
+[WARNING] stderr: ModuleNotFoundError: No module named 'kivymd'
