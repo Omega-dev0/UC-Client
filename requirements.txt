@@ -2,7 +2,6 @@ appdirs==1.4.4
 asyncgui==0.6.3
 asynckivy==0.6.4
 build==1.5.0
-buildozer @ git+https://github.com/kivy/buildozer@f0c3d52e173c95199884dae662b68ab2b9c37759
 certifi==2026.5.20
 charset-normalizer==3.4.7
 colorama==0.4.6

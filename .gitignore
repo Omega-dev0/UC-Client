@@ -1,0 +1,4 @@
+.venv
+.buildozer
+venv_p4a_develop
+__pycache__
